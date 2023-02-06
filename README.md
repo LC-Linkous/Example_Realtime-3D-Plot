@@ -1,11 +1,12 @@
-# Example_realtime-3D-plot
+# Example: Realtime 3D Plot
 ## Table of contents
 * [Project Description](#Project-Description)
 * [Requirements](#Requirements)
 * [How to Use](#How-to-Use)
 
 
-![draw1](https://github.com/LC-Linkous/Example_Realtime-3D-Plot/blob/master/imgs/draw-example.PNG | width=250)
+
+ <img src="https://github.com/LC-Linkous/Example_Realtime-3D-Plot/blob/master/imgs/draw-example.PNG" width="250" height="250">
 
 
 ## Project Description
