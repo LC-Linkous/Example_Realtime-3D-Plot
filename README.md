@@ -5,7 +5,7 @@
 * [How to Use](#How-to-Use)
 
 
-![draw1](https://github.com/LC-Linkous/Example-Realtime-3D-Plot/blob/master/imgs/draw-example.PNG| width=200)
+![draw1](https://github.com/LC-Linkous/Example_Realtime-3D-Plot/blob/master/imgs/draw-example.PNG| width=200)
 
 
 ## Project Description
